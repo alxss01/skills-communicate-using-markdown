@@ -7,3 +7,9 @@
 ``` javascript
 var welcome = "Olá mundo!"
 ```
+
+### Lista
+
+- [x] Criar repositório
+- [ ] Criar nova branch
+- [ ] Realizar commit
